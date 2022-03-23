@@ -1,0 +1,1 @@
+Simple web shop using MERN stack
