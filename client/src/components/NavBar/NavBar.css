@@ -1,0 +1,17 @@
+.divStyle {
+    background-color: #3FF8D9;
+    text-align: right;
+    height: 80px;
+    margin-bottom: auto;
+}
+
+.navStyle {
+    display: inline;
+    padding: 10px;
+    margin-right: 60px;
+    font-size: 35px;
+}
+
+.navStyle :first-child {
+    text-decoration: none;
+}

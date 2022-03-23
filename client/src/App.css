@@ -1,0 +1,8 @@
+body {
+    background-image: url('./components/pictures/vinograd.jpg');
+    background-size: cover;
+    background-color: #cccccc;
+    margin-left: 100px;
+    margin-right: 100px;
+    z-index: -2;
+}

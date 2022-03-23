@@ -1,0 +1,33 @@
+[{
+        "id": 1,
+        "naziv": "Dalmatinsko maslonovo ulje",
+        "tip": "ulje",
+        "cena": 1200,
+        "brojArtikala": 10,
+        "opis": "Nerafinisano hladno cedjeno maslinovo ulje iz dalmacije"
+    },
+    {
+        "id": 2,
+        "naziv": "Kantarionovo ulje",
+        "tip": "ulje",
+        "cena": 1000,
+        "brojArtikala": 8,
+        "opis": "Nerafinisano hladno cedjeno maslinovo ulje iz dalmacije"
+    },
+    {
+        "id": 3,
+        "naziv": "Sirup od nane",
+        "tip": "sirup",
+        "cena": 800,
+        "brojArtikala": 8,
+        "opis": "Sirup od nane pravljen prirodnim putem"
+    },
+    {
+        "id": 4,
+        "naziv": "Sirup od zove",
+        "tip": "sirup",
+        "cena": 800,
+        "brojArtikala": 8,
+        "opis": "Sirup od zove pravljen prirodnim putem"
+    }
+]
