@@ -1,10 +1,11 @@
-const http = require('https');
+const http = require('http');
 const app = require('./app');
+
+const port = 5000;
 
 const server = http.createServer(app);
 
-const port = 50000;
 
 server.listen(port, () => {
-    console.log('Server started on https://localhost:' + port);
+    console.log('Server started on http://localhost:' + port);
 })
